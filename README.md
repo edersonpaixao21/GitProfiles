@@ -1,6 +1,6 @@
 <p align="center">
 <h1>
- GitProfiles
+ Git Profiles
 </h1>
 </p>
 
